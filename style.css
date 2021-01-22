@@ -1,0 +1,17 @@
+body{
+    background:linear-gradient(to bottom right, pink 0%,red 100%); 
+    margin-top:0px;
+}
+.heading{
+    font-size:23px;
+    width:80%;
+}
+#camera,#result{
+    width:350px;
+    height:300px;
+    border:2px solid blue;
+}
+#object_name,#accuracy_object{
+    font-size:20px;
+    color:rgb(238, 255, 0);
+}
